@@ -9,7 +9,7 @@ A simple React application that combines a real-time clock, a stopwatch, and a t
 - **Clock** – Displays the current time in real-time (HH:MM:SS).
 - **Stopwatch** – Start, pause, and reset functionality.
 - **To-Do List** – Add, delete, and move tasks up or down.
-- Clean and responsive layout using plain CSS.
+- Clean and responsive layout using CSS.
 
 ---
 
